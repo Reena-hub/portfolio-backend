@@ -8,5 +8,6 @@ module.exports = {
         CLOUD_NAME: env.CLOUD_NAME,
         API_KEY: env.API_KEY,
         API_SECRET: env.API_SECRET
-    }
+    },
+    ACCESS_TOKEN: env.ACCESS_TOKEN
 }
